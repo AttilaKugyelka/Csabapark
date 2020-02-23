@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">CsabaPark</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="udv">5600 Békéscsaba, Gyulai út 61/2.</string>
+
+    <string name="kezdolap_gomb_string">Bemutatkozás</string>
+    <string name="hirek_but_string">Hírek</string>
+
+    <string name="etterem_string">Étterem</string>
+    <string name="heti_menu_string">Heti menü</string>
+    <string name="etlap_but_string">Étlap</string>
+    <string name="hetvegi_menu_string">Hétvégi szabadszedéses menü</string>
+    <string name="rendezvenyek_string">Rendezvények</string>
+
+    <string name="csabaikolbasz_but_string">Csabai kolbász</string>
+    <string name="tortenet_but_String">Történet</string>
+    <string name="csabai_kolbaszrol_but_string">A Csabai kolbászról</string>
+
+    <string name="park_but_string">Park</string>
+    <string name="oriasok_but_string">Óriások konyhája</string>
+    <string name="kolbaszmuz_but_string">Kolbászmúzeum</string>
+    <string name="rendezvenycsarnok_but_string">Rendezvény csarnok</string>
+    <string name="kolbaszmuhely_but_string">Kolbászműhely</string>
+    <string name="allatsimogato_but_string">Állatsimogató</string>
+
+    <string name="galeria_but_string">Galéria</string>
+    <string name="szolg_but_string">Szolgáltatások</string>
+    <string name="uzlet_but_string">CsabaPark Húsbolt</string>
+    <string name="kapcsolat_but_string">Kapcsolat</string>
+    <string name="title_activity_etterem">Etterem</string>
+
+    <string name="kedvencek">Kedvencek</string>
+    <string name="megosztas">Megosztás</string>
+
+    <string name="kilep_but">Kilépés</string>
+
+    <color name="red">#e20000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="parkAlap">#28746e</color>
+</resources>

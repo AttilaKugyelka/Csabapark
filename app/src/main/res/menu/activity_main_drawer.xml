@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/kezdolap"
+        android:title="@string/kezdolap_gomb_string">
+    </item>
+
+    <item android:title="@string/etterem_string">
+
+        <menu>
+            <item android:id="@+id/hetimenu" android:title="@string/heti_menu_string">
+            </item>
+
+            <item android:id="@+id/hetvegimenu" android:title="@string/hetvegi_menu_string">
+            </item>
+
+            <item android:id="@+id/rendezvenyek"
+                android:title="@string/rendezvenyek_string">
+            </item>
+
+            <item android:id="@+id/szolgaltatasok"
+                android:title="@string/szolg_but_string">
+            </item>
+
+        </menu>
+    </item>
+
+    <item android:title="@string/csabaikolbasz_but_string">
+        <menu>
+            <item android:id="@+id/kolbasz_tortenete"
+                android:title="@string/tortenet_but_String">
+            </item>
+
+            <item android:id="@+id/csabai_kolbaszrol"
+                android:title="@string/csabai_kolbaszrol_but_string">
+            </item>
+
+            <item android:id="@+id/uzlet"
+                android:title="@string/uzlet_but_string">
+            </item>
+        </menu>
+
+    </item>
+
+    <item android:title="@string/park_but_string">
+        <menu>
+            <item android:id="@+id/oriasok_konyhaja"
+                android:title="@string/oriasok_but_string">
+
+            </item>
+
+            <item android:id="@+id/galeria"
+                android:title="@string/galeria_but_string">
+
+            </item>
+
+            <item android:id="@+id/kolbasz_muzeum"
+                android:title="@string/kolbaszmuz_but_string">
+
+            </item>
+            <item android:id="@+id/rendezvenycsarnok"
+                android:title="@string/rendezvenycsarnok_but_string">
+
+            </item>
+            <item android:id="@+id/kolbaszmuhely"
+                android:title="@string/kolbaszmuhely_but_string">
+
+            </item>
+            <item android:id="@+id/allatsimogato"
+                android:title="@string/allatsimogato_but_string">
+
+            </item>
+        </menu>
+    </item>
+
+    <item android:id="@+id/kilep"
+        android:title="@string/kilep_but">
+    </item>
+</menu>
